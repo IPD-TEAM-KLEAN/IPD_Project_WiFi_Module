@@ -136,7 +136,7 @@ ex) 192.xxx.x.xxx // 모바일로 접속 시에 blinking
 
 [YouTube 링크](https://www.youtube.com/watch?v=2o5ZxyU2YB4&list=PLJG0s98ECJWX3fJhhhsXWMIzIr00dd2tY&index=8 "예제")
 
-> ### Sheild
+> ### Shield
 - Relay 쉴드를 활용하여 외부 제어를 돕는다.
 - Dual Base로 연결 가능한 공간을 만들어준다.
 
