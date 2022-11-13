@@ -71,7 +71,7 @@ ex) pinMode(14,OUTPUT); // A0의 pin을 Digital pin처럼 사용한다.
 ```
 
 <center>
-    <img src='Arduino_UNO_GPIO.png' alt='drawing' width=55% height=55%/>
+    <img src='./IPD/Arduino_UNO_GPIO.png' alt='drawing' width=55% height=55%/>
 </center>
 
 ----
@@ -79,7 +79,7 @@ ex) pinMode(14,OUTPUT); // A0의 pin을 Digital pin처럼 사용한다.
 <br />
 
 <center>
-    <img src='Lolin_GPIO.png' alt='drawing' width=55% height=55%/>
+    <img src='./IPD/Lolin_GPIO.png' alt='drawing' width=55% height=55%/>
 </center>
 
 - all of the IO pins run at 3.3V
